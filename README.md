@@ -4,12 +4,8 @@
 -**Languages**:  Java, HTML/CSS, JavaScript, Typescript
 -**Platforms:** Docker
 
---
-
 📖 **Bio**:
 Coding is my life!
-
---
 
 🌐 **Connect with me**:
 

@@ -1,7 +1,7 @@
 ## Nguyen Quang Linh 💛
 
-🔭 **Tech Stack**: 
--**Languages**:  Java, HTML/CSS, JavaScript, Typescript
+🔭 **Tech Stack**: <br/>
+-**Languages**:  Java, HTML/CSS, JavaScript, Typescript, Java Spring Boot<br/>
 -**Platforms:** Docker
 
 📖 **Bio**:

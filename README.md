@@ -15,6 +15,7 @@ Coding is my life!
 ---
 
 # 📊**GitHub Stats**:
+
 ![](https://github-readme-stats.vercel.app/api?username=0xlinhnq&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ---
@@ -24,12 +25,11 @@ Coding is my life!
 <div style="display: flex">
     <img src="images/UDACITY/Udaicity_Cloud_Developer.png" alt="Image 1" style="display: inline-block; width: 49%"/>
     <img src="images/UDACITY/Udacity_Java_Web.png" alt="Image 2" style="display: inline-block; width: 49%;"/>
+    <img src="images/UDACITY/Udacity_Cloud_Architect.png" alt="Image 2" style="display: inline-block; width: 49%;"/>
 </div>
-
 
 ### NVIDIA
 
 <div style="display: flex">
     <img src="images/NVIDIA/NVIDIA.png" alt="Image 1" style="display: inline-block; width: 49%"/>
 </div>
-
